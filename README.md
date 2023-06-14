@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @norazona
-- 👀 I’m interested in web development and data analytics
-- 🌱 I’m currently learning HTML, CSS, and JavaScript
+- 👀 I’m interested in data analytics
+- 🌱 I’m currently learning SQL and Python
 
 <!---
 norazona/norazona is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
