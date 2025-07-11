@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @norazona
-- 👀 I’m interested in data analytics
+- 👀 I’m interested in data analytics and data engineering
 - 🌱 I’m currently learning SQL and Python
 
 <!---
